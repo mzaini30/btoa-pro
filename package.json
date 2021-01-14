@@ -17,7 +17,7 @@
     "url": "https://github.com/mzaini30/btoa-pro/issues"
   },
   "homepage": "https://github.com/mzaini30/btoa-pro#readme",
-  "devDependencies": {
+  "dependencies": {
     "btoa": "^1.2.1"
   }
 }
