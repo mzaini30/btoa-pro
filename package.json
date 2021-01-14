@@ -19,5 +19,6 @@
   "homepage": "https://github.com/mzaini30/btoa-pro#readme",
   "dependencies": {
     "btoa": "^1.2.1"
-  }
+  },
+  "type": "module"
 }
